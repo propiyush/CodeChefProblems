@@ -3,7 +3,7 @@ package beginnerProblems;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class PuppyandSum {
+public class PuppyandSum { // Change class name to Main while submitting it on CodeChef
 	
 	public static int Sum(int d, int n) {
 		int sum=0;
